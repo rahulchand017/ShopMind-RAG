@@ -1,6 +1,3 @@
-# ShopMind-RAG
-It works by converting product descriptions into vector embeddings stored in Endee, a high-performance vector database. When a customer asks a question, the system finds the most semantically similar products using vector search, then generates a helpful answer grounded in the actual product catalog.
-
 # 🛒 E-Commerce RAG with Endee Vector DB
 
 A production-ready **Retrieval Augmented Generation (RAG)** system for e-commerce, powered by [Endee](https://github.com/endee-io/endee) as the high-performance vector database.

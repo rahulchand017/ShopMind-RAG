@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Sony WH-1000XM5 Wireless Headphones",
+    "brand": "Sony",
+    "category": "Electronics",
+    "price": 349.99,
+    "rating": 4.8,
+    "in_stock": true,
+    "description": "Industry-leading noise cancellation with 30-hour battery life. Multipoint connection allows pairing to two devices simultaneously. Premium sound quality with LDAC support for Hi-Res Audio."
+  },
+  {
+    "id": 2,
+    "name": "Apple AirPods Pro (2nd Gen)",
+    "brand": "Apple",
+    "category": "Electronics",
+    "price": 249.00,
+    "rating": 4.7,
+    "in_stock": true,
+    "description": "Active Noise Cancellation and Transparency mode. Adaptive Audio dynamically blends ANC and Transparency. Up to 6 hours listening time, 30 hours total with case. MagSafe charging support."
+  },
+  {
+    "id": 3,
+    "name": "Samsung Galaxy S24 Ultra",
+    "brand": "Samsung",
+    "category": "Smartphones",
+    "price": 1199.99,
+    "rating": 4.6,
+    "in_stock": true,
+    "description": "200MP camera with AI-enhanced zoom up to 100x. Built-in S Pen for note-taking and sketching. 5000mAh battery with 45W fast charging. Titanium frame design."
+  },
+  {
+    "id": 4,
+    "name": "Nike Air Max 270",
+    "brand": "Nike",
+    "category": "Footwear",
+    "price": 150.00,
+    "rating": 4.5,
+    "in_stock": true,
+    "description": "Lifestyle sneaker with the largest Max Air unit yet. Engineered mesh upper for breathability. Foam midsole for lightweight cushioning. Great for casual everyday wear."
+  },
+  {
+    "id": 5,
+    "name": "Levi's 501 Original Jeans",
+    "brand": "Levi's",
+    "category": "Clothing",
+    "price": 69.50,
+    "rating": 4.4,
+    "in_stock": true,
+    "description": "The original straight fit jean since 1873. Button fly closure, 5-pocket styling. Made with 100% cotton denim. Classic and versatile for any occasion."
+  },
+  {
+    "id": 6,
+    "name": "Instant Pot Duo 7-in-1",
+    "brand": "Instant Pot",
+    "category": "Kitchen Appliances",
+    "price": 89.95,
+    "rating": 4.7,
+    "in_stock": true,
+    "description": "Pressure cooker, slow cooker, rice cooker, steamer, sauté pan, yogurt maker, and warmer in one device. 7 quart capacity for family meals. Saves up to 70% cooking time."
+  },
+  {
+    "id": 7,
+    "name": "Dyson V15 Detect Cordless Vacuum",
+    "brand": "Dyson",
+    "category": "Home Appliances",
+    "price": 749.99,
+    "rating": 4.6,
+    "in_stock": false,
+    "description": "Laser dust detection reveals microscopic dust. Real-time LCD screen displays particle counts. 60-minute run time on a single charge. Converts to handheld for versatile cleaning."
+  },
+  {
+    "id": 8,
+    "name": "Kindle Paperwhite (11th Gen)",
+    "brand": "Amazon",
+    "category": "Electronics",
+    "price": 139.99,
+    "rating": 4.8,
+    "in_stock": true,
+    "description": "6.8-inch display with adjustable warm light. Waterproof design (IPX8 rated). 10 weeks battery life on a single charge. 8GB or 32GB storage. Glare-free reading even in bright sunlight."
+  },
+  {
+    "id": 9,
+    "name": "The North Face Thermoball Jacket",
+    "brand": "The North Face",
+    "category": "Clothing",
+    "price": 220.00,
+    "rating": 4.5,
+    "in_stock": true,
+    "description": "Synthetic insulation stays warm even when wet. Packable design compresses into its own pocket. Wind and water resistant outer shell. Ideal for hiking, travel, and everyday use in cold weather."
+  },
+  {
+    "id": 10,
+    "name": "MacBook Air M3",
+    "brand": "Apple",
+    "category": "Laptops",
+    "price": 1099.00,
+    "rating": 4.9,
+    "in_stock": true,
+    "description": "Apple M3 chip with 8-core CPU and 10-core GPU. 18-hour battery life. 13.6-inch Liquid Retina display. Fanless design for silent operation. Available in 8GB or 16GB unified memory."
+  },
+  {
+    "id": 11,
+    "name": "Fitbit Charge 6",
+    "brand": "Fitbit",
+    "category": "Wearables",
+    "price": 159.95,
+    "rating": 4.3,
+    "in_stock": true,
+    "description": "Built-in GPS for pace and distance tracking. 24/7 heart rate monitoring and SpO2 sensor. Sleep tracking with sleep score. 7-day battery life. Compatible with Google Maps and YouTube Music."
+  },
+  {
+    "id": 12,
+    "name": "IKEA MALM Bed Frame (Queen)",
+    "brand": "IKEA",
+    "category": "Furniture",
+    "price": 249.00,
+    "rating": 4.2,
+    "in_stock": true,
+    "description": "Clean-lined minimalist design. Solid wood and wood veneer construction. Adjustable bed sides to accommodate mattresses of varying depths. Easy to assemble. Available in multiple color options."
+  },
+  {
+    "id": 13,
+    "name": "Nespresso Vertuo Pop",
+    "brand": "Nespresso",
+    "category": "Kitchen Appliances",
+    "price": 99.00,
+    "rating": 4.6,
+    "in_stock": true,
+    "description": "Brews 5 cup sizes from espresso to alto. Centrifusion technology for authentic crema. 27-second heat-up time. Compact design fits in any kitchen. Works with Nespresso Vertuo pods only."
+  },
+  {
+    "id": 14,
+    "name": "Adidas Ultraboost 23",
+    "brand": "Adidas",
+    "category": "Footwear",
+    "price": 190.00,
+    "rating": 4.6,
+    "in_stock": false,
+    "description": "BOOST midsole delivers incredible energy return. Primeknit+ upper adapts to your foot shape. Torsion system supports natural foot movement. Ideal for running and high-performance training."
+  },
+  {
+    "id": 15,
+    "name": "JBL Flip 6 Portable Bluetooth Speaker",
+    "brand": "JBL",
+    "category": "Electronics",
+    "price": 129.95,
+    "rating": 4.7,
+    "in_stock": true,
+    "description": "Powerful JBL Original Pro Sound with 2 JBL drivers and 2 JBL bass radiators. IP67 waterproof and dustproof. 12 hours of playtime. Compact and portable design for outdoor adventures."
+  }
+]
